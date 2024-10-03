@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0fbe794dc8d03f4e8ee354cb86c453a, type: 3}
+  m_Name: "Agent_02_\uCE7C \uB4E0 \uC5EC\uC790"
+  m_EditorClassIdentifier: 
+  id: 1
+  displayName: 
+  description: 
+  prefab: {fileID: 6252356961377389083, guid: 154994f63601a9b43be658e96b02aff5, type: 3}
+  speed: 2
+  timeLimit: 2
+  agentType: 0
